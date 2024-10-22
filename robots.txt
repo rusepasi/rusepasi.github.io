@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rusepasi.github.io/rusepasi.rusepasi
+Sitemap: https://rusepasi.github.io/app/rusepasi.rusepasi
+Sitemap: https://rusepasi.github.io/assets/rusepasi.rusepasi
+Sitemap: https://rusepasi.github.io/css/rusepasi.rusepasi
+Sitemap: https://rusepasi.github.io/includes/rusepasi.rusepasi
+Sitemap: https://rusepasi.github.io/item/rusepasi.rusepasi
+Sitemap: https://rusepasi.github.io/src/rusepasi.rusepasi
